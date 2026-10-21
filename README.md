@@ -8,7 +8,7 @@
 
 **Hey, I'm Bonolo 👋** I write GPU kernels.
 
-- 🤖 Before that: robotics and embedded work, including NAO6 robot football controllers and an automated water dispenser (APDS9960 gesture driver rewrite).
+- 🤖 Before that: robotics and embedded work, including NAO6 robot football controllers and a full build of an automated drink dispenser (APDS9960 gesture driver rewrite).
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mushyalpha&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats">

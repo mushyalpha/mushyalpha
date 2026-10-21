@@ -8,8 +8,6 @@
 
 **Hey, I'm Bonolo 👋** I write GPU kernels.
 
-- 🚀 **[baby-vllm](https://github.com/mushyalpha/baby-vllm)**: a lightweight vLLM-style inference engine built from scratch, with continuous batching and a paged KV cache in about 1,400 lines of Python, benchmarked for throughput against HuggingFace.
-- ⚡ Inference experiments: [mistral7B-inference](https://github.com/mushyalpha/mistral7B-inference) (Mistral 7B vs. a HuggingFace baseline) and [day5-cuda-graphs](https://github.com/mushyalpha/day5-cuda-graphs).
 - 🤖 Before that: robotics and embedded work, including NAO6 robot football controllers and an automated water dispenser (APDS9960 gesture driver rewrite).
 
 <p align="center">

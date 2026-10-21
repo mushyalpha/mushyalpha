@@ -6,7 +6,7 @@
   <a href="https://bonolomasima.blog/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"></a>
 </p>
 
-**Hey, I'm Bonolo 👋** I'm doing AI inference engineering: building LLM serving engines from scratch to understand where the speed comes from.
+**Hey, I'm Bonolo 👋** I write GPU kernels.
 
 - 🚀 **[baby-vllm](https://github.com/mushyalpha/baby-vllm)**: a lightweight vLLM-style inference engine built from scratch, with continuous batching and a paged KV cache in about 1,400 lines of Python, benchmarked for throughput against HuggingFace.
 - ⚡ Inference experiments: [mistral7B-inference](https://github.com/mushyalpha/mistral7B-inference) (Mistral 7B vs. a HuggingFace baseline) and [day5-cuda-graphs](https://github.com/mushyalpha/day5-cuda-graphs).

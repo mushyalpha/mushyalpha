@@ -36,15 +36,7 @@
 
 ## Open Source Contributions
 
-<table>
-  <tr><th>Project</th><th>Merged</th><th>What the PRs cover</th><th>Highlight PRs</th></tr>
-  <tr>
-    <td><a href="https://github.com/Eng5220/SmartFlowX">Eng5220/SmartFlowX</a></td>
-    <td>2</td>
-    <td>Gesture sensor fix and README update for an automated water dispenser</td>
-    <td><a href="https://github.com/Eng5220/SmartFlowX/pull/3">#3 Fix gesture sensor</a><br><a href="https://github.com/Eng5220/SmartFlowX/pull/1">#1 README update</a></td>
-  </tr>
-</table>
+*Coming soon: upstream kernel PRs in SGLang and FlashInfer.*
 
 ## Projects
 

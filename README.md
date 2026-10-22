@@ -23,6 +23,17 @@
 <a href="https://github.com/mushyalpha/flashinfer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mushyalpha&repo=flashinfer&theme=dark&hide_border=true" /></a>
 </p>
 
+## Toolchain
+
+<p>
+<img src="https://img.shields.io/badge/CUDA-0d1117?style=for-the-badge&logo=nvidia&logoColor=39d353" />
+<img src="https://img.shields.io/badge/TRITON-0d1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PYTORCH-0d1117?style=for-the-badge&logo=pytorch&logoColor=39d353" />
+<img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=39d353" />
+<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39d353" />
+<img src="https://img.shields.io/badge/NSIGHT-0d1117?style=for-the-badge&logo=nvidia&logoColor=39d353" />
+</p>
+
 ## Open Source Contributions
 
 <table>

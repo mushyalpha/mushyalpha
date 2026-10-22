@@ -15,6 +15,14 @@
   <img height="165" src="https://streak-stats.demolab.com/?user=mushyalpha&theme=dark&hide_border=true" alt="GitHub streak">
 </p>
 
+## Pinned
+
+<p>
+<a href="https://github.com/mushyalpha/baby-vllm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mushyalpha&repo=baby-vllm&theme=dark&hide_border=true" /></a>
+<a href="https://github.com/mushyalpha/sglang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mushyalpha&repo=sglang&theme=dark&hide_border=true" /></a>
+<a href="https://github.com/mushyalpha/flashinfer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mushyalpha&repo=flashinfer&theme=dark&hide_border=true" /></a>
+</p>
+
 ## Open Source Contributions
 
 <table>

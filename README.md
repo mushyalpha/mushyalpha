@@ -47,4 +47,4 @@
 | [day5-cuda-graphs](https://github.com/mushyalpha/day5-cuda-graphs) | CUDA graphs experiments (Python) |
 | [miniOrca](https://github.com/mushyalpha/miniOrca) | Python project |
 | [robotics-tdp-team1](https://github.com/mushyalpha/robotics-tdp-team1) | NAO6 robot football team (University of Glasgow): balance, fall-recovery and side-step controllers |
-| [FlowFizzy](https://github.com/mushyalpha/FlowFizzy) | Automated water dispenser (C++): APDS9960 gesture/proximity driver rewrite and memory-management refactor |
+| [FlowFizzy](https://github.com/mushyalpha/FlowFizzy) | Automated drink dispenser (C++): APDS9960 gesture/proximity driver rewrite and memory-management refactor |

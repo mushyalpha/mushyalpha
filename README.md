@@ -36,7 +36,7 @@
 
 ## Open Source Contributions
 
-*Coming soon: upstream kernel PRs in SGLang and FlashInfer.*
+- **SGLang** · [#45844](https://github.com/sgl-project/sglang/pull/45844): stop Triton recompiling the DSA tiled decode kernel per page-table stride (do_not_specialize), with a regression test · *in review*
 
 ## Projects
 

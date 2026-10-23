@@ -42,7 +42,7 @@
 
 | Project | Description |
 |---|---|
-| [baby-vllm](https://github.com/mushyalpha/baby-vllm) | vLLM-style inference engine from scratch: continuous batching (mixed prefill and decode), paged KV cache with preemption and recompute, a vLLM-like `LLM` / `SamplingParams` API, and a throughput benchmark against HuggingFace |
+| [baby-vllm](https://github.com/mushyalpha/baby-vllm) | vLLM-style inference engine from scratch: continuous batching (mixed prefill and decode), paged KV cache with preemption and recompute, a vLLM-like `LLM` / `SamplingParams` API, and a throughput benchmark against HuggingFace · matches vLLM 0.32.0 on H100 (Qwen2.5-7B): 168.0 vs 163.7 tok/s at batch 1, 1,239 vs 1,198 at batch 8 |
 | [mistral7B-inference](https://github.com/mushyalpha/mistral7B-inference) | Running inference on Mistral 7B and comparing it with a baseline HuggingFace model |
 | [day5-cuda-graphs](https://github.com/mushyalpha/day5-cuda-graphs) | CUDA graphs experiments (Python) |
 | [miniOrca](https://github.com/mushyalpha/miniOrca) | Python project |
